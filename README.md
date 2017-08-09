@@ -1,5 +1,11 @@
 #CREATE FONT SAMPLER IN JAVA SWING
 
+Description:	
+  	A FontSampler application that allows user to 
+enter a sample text and select one of the many available fonts in java. 
+the program will then display user's text in the font chosen below 
+font list. 
+ 
 
 #output for java font list
 
